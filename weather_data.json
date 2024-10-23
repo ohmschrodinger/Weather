@@ -1,0 +1,368 @@
+{
+    "weather": [
+        {
+            "name": "Mumbai",
+            "main": {
+                "temp": 30,
+                "pressure": 1012
+            }
+        },
+        {
+            "name": "Delhi",
+            "main": {
+                "temp": 28,
+                "pressure": 1008
+            }
+        },
+        {
+            "name": "Pune",
+            "main": {
+                "temp": 25,
+                "pressure": 1010
+            }
+        },
+        {
+            "name": "Nagpur",
+            "main": {
+                "temp": 27,
+                "pressure": 1005
+            }
+        },
+        {
+            "name": "Nashik",
+            "main": {
+                "temp": 26,
+                "pressure": 1009
+            }
+        },
+        {
+            "name": "Aurangabad",
+            "main": {
+                "temp": 29,
+                "pressure": 1006
+            }
+        },
+        {
+            "name": "Solapur",
+            "main": {
+                "temp": 31,
+                "pressure": 1011
+            }
+        },
+        {
+            "name": "Thane",
+            "main": {
+                "temp": 29,
+                "pressure": 1007
+            }
+        },
+        {
+            "name": "Akola",
+            "main": {
+                "temp": 28,
+                "pressure": 1004
+            }
+        },
+        {
+            "name": "Amravati",
+            "main": {
+                "temp": 27,
+                "pressure": 1003
+            }
+        },
+        {
+            "name": "Kolhapur",
+            "main": {
+                "temp": 26,
+                "pressure": 1005
+            }
+        },
+        {
+            "name": "Raigad",
+            "main": {
+                "temp": 30,
+                "pressure": 1008
+            }
+        },
+        {
+            "name": "Chandigarh",
+            "main": {
+                "temp": 25,
+                "pressure": 1008
+            }
+        },
+        {
+            "name": "Bhopal",
+            "main": {
+                "temp": 27,
+                "pressure": 1009
+            }
+        },
+        {
+            "name": "Jaipur",
+            "main": {
+                "temp": 29,
+                "pressure": 1010
+            }
+        },
+        {
+            "name": "Lucknow",
+            "main": {
+                "temp": 28,
+                "pressure": 1007
+            }
+        },
+        {
+            "name": "Shimla",
+            "main": {
+                "temp": 22,
+                "pressure": 1011
+            }
+        },
+        {
+            "name": "Dehradun",
+            "main": {
+                "temp": 24,
+                "pressure": 1006
+            }
+        },
+        {
+            "name": "Patna",
+            "main": {
+                "temp": 29,
+                "pressure": 1004
+            }
+        },
+        {
+            "name": "Ranchi",
+            "main": {
+                "temp": 26,
+                "pressure": 1005
+            }
+        },
+        {
+            "name": "Gandhinagar",
+            "main": {
+                "temp": 31,
+                "pressure": 1012
+            }
+        },
+        {
+            "name": "Ahmedabad",
+            "main": {
+                "temp": 32,
+                "pressure": 1010
+            }
+        },
+        {
+            "name": "Hyderabad",
+            "main": {
+                "temp": 30,
+                "pressure": 1009
+            }
+        },
+        {
+            "name": "Bengaluru",
+            "main": {
+                "temp": 26,
+                "pressure": 1008
+            }
+        },
+        {
+            "name": "Chennai",
+            "main": {
+                "temp": 33,
+                "pressure": 1011
+            }
+        },
+        {
+            "name": "Kolkata",
+            "main": {
+                "temp": 31,
+                "pressure": 1006
+            }
+        },
+        {
+            "name": "Dispur",
+            "main": {
+                "temp": 27,
+                "pressure": 1013
+            }
+        },
+        {
+            "name": "Imphal",
+            "main": {
+                "temp": 24,
+                "pressure": 1005
+            }
+        },
+        {
+            "name": "Aizawl",
+            "main": {
+                "temp": 23,
+                "pressure": 1004
+            }
+        },
+        {
+            "name": "Shillong",
+            "main": {
+                "temp": 22,
+                "pressure": 1006
+            }
+        },
+        {
+            "name": "Kohima",
+            "main": {
+                "temp": 25,
+                "pressure": 1007
+            }
+        },
+        {
+            "name": "Agartala",
+            "main": {
+                "temp": 28,
+                "pressure": 1008
+            }
+        },
+        {
+            "name": "Itanagar",
+            "main": {
+                "temp": 26,
+                "pressure": 1010
+            }
+        },
+        {
+            "name": "Port Blair",
+            "main": {
+                "temp": 30,
+                "pressure": 1005
+            }
+        },
+        {
+            "name": "Gangtok",
+            "main": {
+                "temp": 22,
+                "pressure": 1009
+            }
+        },
+        {
+            "name": "Puducherry",
+            "main": {
+                "temp": 31,
+                "pressure": 1004
+            }
+        },
+        {
+            "name": "Srinagar",
+            "main": {
+                "temp": 20,
+                "pressure": 1011
+            }
+        },
+        {
+            "name": "Jammu",
+            "main": {
+                "temp": 24,
+                "pressure": 1007
+            }
+        },
+        {
+            "name": "Leh",
+            "main": {
+                "temp": 18,
+                "pressure": 1006
+            }
+        },
+        {
+            "name": "Udaipur",
+            "main": {
+                "temp": 29,
+                "pressure": 1010
+            }
+        },
+        {
+            "name": "Surat",
+            "main": {
+                "temp": 31,
+                "pressure": 1008
+            }
+        },
+        {
+            "name": "Navi Mumbai",
+            "main": {
+                "temp": 30,
+                "pressure": 1006
+            }
+        },
+        {
+            "name": "Thane",
+            "main": {
+                "temp": 29,
+                "pressure": 1007
+            }
+        },
+        {
+            "name": "Dadar",
+            "main": {
+                "temp": 28,
+                "pressure": 1005
+            }
+        },
+        {
+            "name": "Vasai-Virar",
+            "main": {
+                "temp": 31,
+                "pressure": 1003
+            }
+        },
+        {
+            "name": "Mira-Bhayandar",
+            "main": {
+                "temp": 27,
+                "pressure": 1004
+            }
+        },
+        {
+            "name": "Jalna",
+            "main": {
+                "temp": 26,
+                "pressure": 1005
+            }
+        },
+        {
+            "name": "Bhiwandi",
+            "main": {
+                "temp": 29,
+                "pressure": 1006
+            }
+        },
+        {
+            "name": "Sangli",
+            "main": {
+                "temp": 30,
+                "pressure": 1007
+            }
+        },
+        {
+            "name": "Satara",
+            "main": {
+                "temp": 28,
+                "pressure": 1004
+            }
+        },
+        {
+            "name": "Ratnagiri",
+            "main": {
+                "temp": 27,
+                "pressure": 1005
+            }
+        },
+        {
+            "name": "Palghar",
+            "main": {
+                "temp": 30,
+                "pressure": 1008
+            }
+        }
+    ]
+}
